@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# 无密码登陆机器
+sshpass -p psw ssh caorong@$1
